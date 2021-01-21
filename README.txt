@@ -2,6 +2,11 @@
 IDAPython - Python plugin for Interactive Disassembler
 ------------------------------------------------------
 
+For IDA version 6.8.
+
+Cheetsheet in `idc.py`.
+
+
 What is IDAPython?
 ------------------
 
